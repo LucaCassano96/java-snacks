@@ -14,5 +14,6 @@ public class Snack6 {
         String orario = String.format("%02d:%02d:%02d", ore, minuti, secondi);
         System.out.println(orario);
 
+
     }
 }
