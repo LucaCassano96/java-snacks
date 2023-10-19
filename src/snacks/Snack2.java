@@ -19,6 +19,7 @@ public class Snack2 {
             String nomeScelto = nomi[index];
 
             System.out.println(nomeScelto + " " + cognome);
+
         }
     }
 }
